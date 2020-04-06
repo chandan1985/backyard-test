@@ -1,0 +1,10 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      css/theme.css: {}
+      css/user1.css: {}
+      css/tablet.css: {}
+      css/iphone.css: {}
+  js:
+    js/simple.js: {}
